@@ -10229,7 +10229,7 @@ module.exports = {
 module.exports={
   "api": "https://api.github.com",
   "site": "https://github.com",
-  "clientId": "c602a8bd54b1e774f864",
+  "clientId": "c16d7ddf2a2ebd222835",
   "gatekeeperUrl": "https://prose-gatekeeper.herokuapp.com"
 }
 

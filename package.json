@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/prose/prose.git"
+    "url": "git://github.com/bryanhirsch/prose.git"
   },
   "author": "Development Seed",
   "license": "BSD",
